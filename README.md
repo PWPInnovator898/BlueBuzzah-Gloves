@@ -2,12 +2,11 @@
 
 The BlueBuzzah Gloves system is an open-source, non-invasive neuromodulation platform inspired by the coordinated reset (CR) therapy research of Dr. Peter Tass and others.
 
-![pic small](https://github.com/user-attachments/assets/33e62b77-5e64-4439-92f3-db056302fa61)
+![pic small 2](https://github.com/user-attachments/assets/20ace566-87f9-4440-a684-799c48798668)
 
 ## About the Project
 
 The BlueBuzzah Gloves project was developed by an informal group of collaborators ("BlueBuzzah Partners") focused on advancing open-source neuromodulation tools.
-
 
 ## Features
 - BLE-synchronized vibrotactile stimulation
