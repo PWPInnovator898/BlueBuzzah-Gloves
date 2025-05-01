@@ -1,0 +1,9 @@
+Custom License – BlueBuzzah Partners
+
+This hardware design is released by BlueBuzzah Partners for personal, educational, and research purposes only.
+Commercial use of these designs is strictly prohibited without prior written permission.
+
+This design is provided as-is and not intended for use in clinical or FDA-regulated environments.
+No support or warranties are provided.
+
+© 2025 BlueBuzzah Partners. All rights reserved.
