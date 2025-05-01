@@ -23,6 +23,9 @@ The project draws significant inspiration from the coordinated reset (CR) neurom
 
 ### Key References
 
-- Tass, P.A. (2003). "A model of desynchronizing deep brain stimulation..." *Biological Cybernetics*, 89(2):81–88. https://doi.org/10.1007/s00422-003-0430-2
-- Wang, H., et al. (2016). "Coordinated reset neuromodulation for Parkinson’s disease..." *Movement Disorders*, 31(8):1212–1220. https://doi.org/10.1002/mds.26629
-- Pfeifer, R.A., et al. (2021). "Non-invasive vibrotactile coordinated reset stimulation..." *Frontiers in Human Neuroscience*. https://doi.org/10.3389/fnhum.2021.660455
+"Coordinated Reset Vibrotactile Stimulation Induces Sustained Cumulative Benefits in Parkinson’s Disease”, P.A. Tass, et al., 2021,  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8055937/ .  This paper also has a supplementary materials link that has further information about the buzzer design along with patient videos.
+
+“Clinical Efficacy and Dosing of Vibrotactile Coordinated Reset Stimulation in Motor and Non-motor Symptoms of Parkinson's Disease: A Study Protocol”, P.A. Tass, et al., 2021, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8636796/ .  
+
+“Vibrotactile Coordinated Reset Stimulation for the Treatment of Neurological Diseases: Concepts and Device, Specifications”, P.A. Tass, et al., 2017, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5624565/ .  
+
