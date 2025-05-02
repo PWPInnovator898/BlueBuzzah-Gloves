@@ -18,6 +18,7 @@ The BlueBuzzah Gloves project was developed by an informal group of collaborator
 - https://github.com/adafruit/circuitpython
 
 ## Structure
+- ADD ALL DIRECTORIES in MAIN
 - `ATTRIBUTION.md` – Contributors and references
 - `LICENSES/` – MIT and GPL license texts
 
