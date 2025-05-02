@@ -11,8 +11,9 @@ The BlueBuzzah Gloves project was developed by an informal group of collaborator
 
 ## Features
 - BLE-synchronized vibrotactile stimulation
-- Coordinated reset pattern generation
+- Flexible, customize-able coordinated reset pattern generation
 - Dual-board synchronous operation
+- 8+ hours operation on a single charge
 - Based on CircuitPython software and Adafruit hardware and associated libraries
 - https://github.com/adafruit/circuitpython
 
