@@ -2,7 +2,7 @@
 
 ## About the Project
 
-The BlueBuzzah Gloves project was developed by an informal group of collaborators ("BlueBuzzah Partners") focused on advancing open-source tools to relieve Parkinson's symtoms.
+The BlueBuzzah Gloves project was developed by an informal group of collaborators ("BlueBuzzah Partners") focused on advancing open-source tools for people with Parkinson's.
 
 ## Firmware Contributions and License Overview
 
