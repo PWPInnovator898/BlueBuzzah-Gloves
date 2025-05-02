@@ -17,8 +17,6 @@ The BlueBuzzah Gloves project was developed by an informal group of collaborator
 - https://github.com/adafruit/circuitpython
 
 ## Structure
-- `firmware/` – CircuitPython source code
-- `hardware/` – KiCad PCB, 3D enclosure models
 - `ATTRIBUTION.md` – Contributors and references
 - `LICENSES/` – MIT and GPL license texts
 
