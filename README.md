@@ -13,7 +13,8 @@ The BlueBuzzah Gloves project was developed by an informal group of "citizen res
 - Wireless Bluetooth BLE-synchronized vibrotactile stimulation
 - Flexible, customize-able coordinated reset pattern and simulation generation
 - Highly precise  left <--> right glove synchronization
-- 8+ hours operation on a single charge
+- Innovative spring-based tactor design
+- Up to 8+ hours on a single charge
 - Built with:
   - Adafruit hardware @ https://www.adafruit.com/
   - Adafruit CircuitPython libraries @ https://github.com/adafruit/circuitpython
