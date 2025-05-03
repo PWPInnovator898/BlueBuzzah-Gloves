@@ -1,2 +1,2 @@
-# Attribution and Acknowledgements
+# Acknowledgements
 The Blue Buzzah project was proudly and successfully designed and prototyped by a widely distributed collection of dedicated "citizen research" collaborators, comprised of people affected by Parkinson's.
