@@ -17,7 +17,7 @@ The BlueBuzzah Gloves project was developed by an informal group of collaborator
 - Based on CircuitPython software and Adafruit hardware and associated libraries
 - https://github.com/adafruit/circuitpython
 
-## Structure
+## Project Structure
 - 3D PRINTS - STL design files for tactor housings and enclosures
 - BUILD DOCUMENTATION PDFs - how to build gloves documentation
 - FILES FOR ORDERING PCB - PCB layout files
