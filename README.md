@@ -10,9 +10,9 @@ The BlueBuzzah Gloves system is an open-source, non-invasive neuromodulation pla
 The BlueBuzzah Gloves project was developed by an informal group of collaborators ("BlueBuzzah Partners") focused on advancing open-source tools for people with Parkinson's.
 
 ## Features
-- BLE-synchronized vibrotactile stimulation
-- Flexible, customize-able coordinated reset pattern generation
-- Left/right synchronous operation
+- Bluetooth BLE-synchronized vibrotactile stimulation
+- Flexible, customize-able coordinated reset pattern and simulation generation
+- Highly accurate left/right glove synchronization
 - 8+ hours operation on a single charge
 - Based on CircuitPython software and Adafruit hardware and associated libraries
 - https://github.com/adafruit/circuitpython
@@ -29,11 +29,11 @@ The BlueBuzzah Gloves project was developed by an informal group of collaborator
 ## Disclaimer
 This project is not FDA-approved and is not intended for clinical use.  
 All files are provided as-is with no warranty or implied support.  
-Hardware files are released under a custom non-commercial license.
+Hardware design files are released under a custom non-commercial license (see below).
 
 See `ATTRIBUTION.md` for full credits.
 
-## License Summary
+## Multiple License Summary
 
 This project uses multiple licenses:
 
