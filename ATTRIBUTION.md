@@ -15,7 +15,7 @@ The BlueBuzzah Gloves project was developed by an informal group of collaborator
 - ### Source Availability (GPL-3.0 Compliance Notice)
 The file `main_program_VCR.mpy` is derived from code licensed under the GNU GPL v3.0.
 In compliance with GPL-3.0, the complete corresponding source code for this file is available **by request**.  
-To request the source code, contact: PWPInnovator898 via GitHub
+To request the source code, contact: PWPInnovator898 via GitHub.
 We commit to providing the source for at least 3 years after release.
 
 ## Hardware Design
