@@ -38,6 +38,7 @@ This project uses multiple licenses:
 - `main_program_VCR.py`: [GNU GPL v3.0](LICENSES/GPL-3.0.txt)
 
 ### Hardware
-- All PCB, enclosure, and glove design files: LICENSES/Hardware-License
+- All PCB, enclosure, and glove design files:
+- https://github.com/PWPInnovator898/BlueBuzzah-Gloves/blob/main/LICENSES/Hardware-License
 
 Please refer to `ATTRIBUTION.md` for contributor credits and scientific references.
