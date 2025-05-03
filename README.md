@@ -7,7 +7,7 @@ The BlueBuzzah Gloves system is an open-source, non-invasive neuromodulation pla
 
 ## About the Project
 
-The BlueBuzzah Gloves project was developed by an informal group of DIY citizen research collaborators ("BlueBuzzah Partners") focused on advancing open-source tools for people with Parkinson's.
+The BlueBuzzah Gloves project was developed by an informal group of DIY citizen research collaborators ("BlueBuzzah Partners") focused on advancing access to open-source tools for people with Parkinson's.
 
 ## Features
 - Wireless Bluetooth BLE-synchronized vibrotactile stimulation
