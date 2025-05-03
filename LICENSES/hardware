@@ -1,0 +1,31 @@
+BlueBuzzah Gloves Hardware License (Non-Commercial Use Only)
+
+Copyright (c) 2025 BlueBuzzah Partners
+
+Permission is hereby granted to use, copy, modify, and share the hardware design files in this repository, including but not limited to:
+- PCB layout
+- 3D models
+- Enclosure designs
+- Tactor housings
+- Glove assembly diagrams and documentation
+
+under the following conditions:
+
+1. **Non-Commercial Use Only**  
+   These files may only be used for personal, educational, or non-commercial research purposes.  
+   Commercial use of any part of these designs—including in products, services, or clinical trials—requires prior written permission from BlueBuzzah Partners.
+
+2. **No Warranty or Support**  
+   This design is provided "as is", without warranty of any kind.  
+   No support, updates, or guarantees are necessarily offered. Use at your own risk.
+
+3. **Medical Use Disclaimer**  
+   This hardware is **not** approved for clinical use and is not intended for diagnosis, treatment, or mitigation of any disease or condition.  
+   It must not be used in FDA-regulated or equivalent environments.
+
+4. **Attribution**  
+   Any public or published derivative work must include the following attribution:  
+   "Based on hardware developed by BlueBuzzah Partners as part of the BlueBuzzah Gloves project."
+
+5. **License Duration**  
+   This license remains in effect for all versions of the design shared publicly under these terms. BlueBuzzah Partners reserve the right to release future versions under different terms.
