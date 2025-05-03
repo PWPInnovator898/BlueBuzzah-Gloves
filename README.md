@@ -39,6 +39,6 @@ This project uses multiple licenses:
 
 ### Hardware
 - All PCB, enclosure, and glove design files:
-  [Non-Commercial License](LICENSES/Hardware-License.txt)
+https://github.com/PWPInnovator898/BlueBuzzah-Gloves/blob/main/LICENSES/Hardware-License
 
 Please refer to `ATTRIBUTION.md` for contributor credits and scientific references.
