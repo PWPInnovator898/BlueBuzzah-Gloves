@@ -10,7 +10,7 @@ The BlueBuzzah Gloves project was developed by an informal group of collaborator
   - https://github.com/adafruit
 - **Kris Wilk** – Development of the original Buzzah software / firmware (GPL-3.0)
   - https://github.com/kriswilk/buzzah
-- **BlueBuzzah Partners** – custom non-commercial license for hardware
+- **BlueBuzzah Partners** – custom non-commercial license for hardware (see below)
 
 - ### Source Availability (GPL-3.0 Compliance Notice)
 The file `main_program_VCR.mpy` is derived from code licensed (via https://github.com/kriswilk/buzzah)
