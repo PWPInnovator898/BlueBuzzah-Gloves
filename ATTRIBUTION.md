@@ -4,17 +4,17 @@
 
 The BlueBuzzah Gloves project was developed by an informal group of collaborators ("BlueBuzzah Partners") focused on advancing open-source tools for people with Parkinson's.
 
-## Firmware Contributions and License Overview
+## Software, Hardware Contributions and License Overview
 
 - **Adafruit Industries** – CircuitPython libraries and BLE libraries and drivers (MIT License)
   - https://github.com/adafruit
 - **Kris Wilk** – Development of the original Buzzah software / firmware (GPL-3.0)
   - https://github.com/kriswilk/buzzah
-- **BlueBuzzah Partners** – System firmware, BLE synchronization (MIT and GPL-3.0 license)
+- **BlueBuzzah Partners** – custom non-commercial license for hardware
 
 - ### Source Availability (GPL-3.0 Compliance Notice)
-The file `main_program_VCR.mpy` is derived from code licensed under the GNU GPL v3.0.
-In compliance with GPL-3.0, the complete corresponding source code for this file is available **by request**.  
+The file `main_program_VCR.mpy` is derived from code licensed (via https://github.com/kriswilk/buzzah)
+under the GNU GPL v3.0.  In compliance with GPL-3.0, the complete corresponding source code for this file is available **by request**.  
 To request the source code, contact: PWPInnovator898 via GitHub.
 We commit to providing the source for at least 3 years after release.
 
