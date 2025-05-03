@@ -15,9 +15,10 @@ The BlueBuzzah Gloves project was developed by an informal group of "citizen res
 - Highly precise  left <--> right glove synchronization
 - Innovative LRA tactor design
 - Up to 8+ hours on a single charge
-- Built with:
+- Built upon:
   - Adafruit hardware @ https://www.adafruit.com/
   - Adafruit CircuitPython libraries @ https://github.com/adafruit/circuitpython
+  - Coordinated reset CircuitPython software from the Buzzah project: https://github.com/kriswilk/buzzah
 
 ## Project Structure
 - 3D PRINTS - STL design files for tactor housings and enclosures
