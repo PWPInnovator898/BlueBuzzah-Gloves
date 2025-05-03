@@ -1,4 +1,8 @@
-                    GNU GENERAL PUBLIC LICENSE
+This license applies to:
+- main_program_VCR.mpy
+- The corresponding source file main_program_VCR.py
+
+                      GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
  Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
