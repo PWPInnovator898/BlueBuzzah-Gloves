@@ -28,3 +28,17 @@ All files are provided as-is with no warranty or implied support.
 Hardware files are released under a custom non-commercial license.
 
 See `ATTRIBUTION.md` for full credits.
+
+## License Summary
+
+This project uses multiple licenses:
+
+### Software
+- Most files: [MIT License](LICENSES/MIT.txt)
+- `main_program_VCR.py`: [GNU GPL v3.0](LICENSES/GPL-3.0.txt)
+
+### Hardware
+- All PCB, enclosure, and glove design files:
+  [Non-Commercial License](LICENSES/Hardware-License.txt)
+
+Please refer to `ATTRIBUTION.md` for contributor credits and scientific references.
