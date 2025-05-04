@@ -13,6 +13,7 @@ Many people in the extended PD community have active DIY VCR platforms and/or ex
 
 ## Features
 - Wireless Bluetooth BLE-synchronized vibrotactile stimulation
+- Electronics can be optionally paired with sevearal, LRA-based, open-source glove designs
 - Flexible, customize-able coordinated reset pattern and simulation generation
 - Highly precise  left <--> right glove synchronization
 - Innovative LRA tactor design
