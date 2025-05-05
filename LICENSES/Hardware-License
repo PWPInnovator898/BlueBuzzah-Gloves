@@ -13,7 +13,8 @@ under the following conditions:
 
 1. **Non-Commercial Use Only**  
    These files may only be used for personal, educational, or non-commercial research purposes.  
-   Commercial use of any part of these designs—including in products, services, or clinical trials—requires prior written permission from BlueBuzzah Partners.
+   Commercial use of any part of these designs—including in products, services, or clinical trials is prohibited.
+   Public forking of this repository or any of its hardware components for commercial use is explicitly prohibited.
 
 2. **No Warranty or Support**  
    This design is provided "as is", without warranty of any kind.  
@@ -28,4 +29,5 @@ under the following conditions:
    "Based on hardware developed by BlueBuzzah Partners as part of the BlueBuzzah Gloves project."
 
 5. **License Duration**  
-   This license remains in effect for all versions of the design shared publicly under these terms. BlueBuzzah Partners reserve the right to release future versions under different terms.
+   This license remains in effect for all versions of the design shared publicly under these terms. 
+   BlueBuzzah Partners reserve the right to release future versions under different terms.
