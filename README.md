@@ -36,6 +36,7 @@ Many people in the extended PD community have active DIY VCR platforms and/or ex
 This project is not FDA-approved and is not intended for clinical use.  
 All files are provided for personal use only and "as-is" with no warranty or implied support.  
 Hardware design files are released under a custom non-commercial license (see below).
+Unauthorized cloning or redistribution of this project for commercial use is prohibited.
 
 See `ATTRIBUTION.md` for full credits.
 
