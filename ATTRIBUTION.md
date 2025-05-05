@@ -19,7 +19,7 @@ This paper also has a supplementary materials link that has further information 
 
 ## Software, Hardware Contributions and License Overview
 
-- **Adafruit Industries** – CircuitPython libraries and BLE libraries and drivers (MIT License)
+- **Adafruit Industries** – CircuitPython and BLE libraries (MIT License)
   - https://github.com/adafruit
 - **Kris Wilk** – Development of the original Buzzah software / firmware (GPL-3.0)
   - https://github.com/kriswilk/buzzah
@@ -34,4 +34,4 @@ We commit to providing the source for at least 3 years after release.
 ## Hardware Design
 
 All hardware schematics, PCB layouts, 3D models, and glove assembly designs were developed by **BlueBuzzah Partners**.  
-Released under a custom, non-commercial license. See https://github.com/PWPInnovator898/BlueBuzzah-Gloves/blob/main/LICENSES/Hardware-License
+Released under a custom, non-commercial license. See https://github.com/PWPInnovator898/BlueBuzzah-Gloves/blob/main/LICENSES/Hardware-License.
