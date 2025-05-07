@@ -4,9 +4,7 @@ The BlueBuzzah Gloves system is an open-source, DIY platform inspired directly b
 
 An overview of the build process can be found in the attached video: (https://www.youtube.com/watch?v=fcnbQDe73uA)
 
-![pic small 2](https://github.com/user-attachments/assets/20ace566-87f9-4440-a684-799c48798668)  
-```
--Follow our Github site to keep track of important notes and updates.```
+![pic small 2](https://github.com/user-attachments/assets/20ace566-87f9-4440-a684-799c48798668)  ```-Follow our Github site to keep track of important notes and updates.```
 
 ## About the Project
 
