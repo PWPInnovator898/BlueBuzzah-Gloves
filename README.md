@@ -28,7 +28,7 @@ Many people in the extended PD community have active DIY VCR platforms and/or ex
 - BUILD DOCUMENTATION PDFs - "how to build the gloves" documentation
 - FILES FOR ORDERING PCB - PCB layout files
 - FILES FOR PREPARING PCB - all CircuitPython code files
-- `LICENSES/` – MIT and GPL license texts, and custom hardware license
+- `LICENSE/` – MIT and GPL license texts, and custom hardware license
 - `ATTRIBUTION.md` – Contributors and references
 - README.md - Project overview
 
