@@ -45,11 +45,11 @@ See `ATTRIBUTION.md` for full credits.
 This project uses multiple licenses:
 
 ### Software
-- Most files: [MIT License](LICENSES/MIT.txt)
-- `main_program_VCR.py`: [GNU GPL v3.0](LICENSES/GPL-3.0.txt)
+- Most files: [MIT License](LICENSE/MIT.txt)
+- `main_program_VCR.py`: [GNU GPL v3.0](LICENSE/GPL-3.0.txt)
 
 ### Hardware
 - All PCB, enclosure, and glove design files:
-- https://github.com/PWPInnovator898/BlueBuzzah-Gloves/blob/main/LICENSES/Hardware-License
+- https://github.com/PWPInnovator898/BlueBuzzah-Gloves/blob/main/LICENSE/Hardware-License
 
 Please refer to `ATTRIBUTION.md` for contributor credits and scientific references.
