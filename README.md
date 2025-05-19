@@ -42,7 +42,7 @@ See `ATTRIBUTION.md` for full credits.
 
 ## Multiple License Summary
 
-This project uses multiple licenses:
+This project uses multiple licenses: 
 
 ### Software
 - Most files: [MIT License](LICENSE/MIT.txt)
