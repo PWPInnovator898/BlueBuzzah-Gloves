@@ -15,3 +15,6 @@ A new version of our Blue Buzzah code has been posted that includes:
 ![soldering BAT connection4](https://github.com/user-attachments/assets/42566705-f391-449e-af5e-26177d48cfab)
 - Be careful when soldering the BAT connection on top of the feather.  It's proximity to the battery socket makes it difficult to solder. If you're not careful, it is easy to get too much solder on that connection and end up with a ball of solder going over to the battery nearby socket and grounding out your connection.
 
+# 7-27-25 UPDATE TO SOLDERING RECOMMENDATIONS
+![sold rec 1](https://github.com/user-attachments/assets/354dc7b3-edcd-46b4-b100-584c277a320b)   ![sold rec 2](https://github.com/user-attachments/assets/ac5a2b52-e328-4438-ae99-2fb801e1cbae)
+- In Step 2.1 g of the build pdf version 1.2,  we recommended that builders solder all of the pins from the headers on the underside of the PCB.  Since only the 9 pins we identified on the top of the PCB are active in our design in step 2.2e, we are now changing this recommendation.   In order to minimize the potential for novice builders making an error during soldering, especially in areas where traces run near to connections, we now recommend that builders only solder the nine active pins under the PCB.
