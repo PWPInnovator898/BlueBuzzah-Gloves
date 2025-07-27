@@ -11,6 +11,7 @@ A new version of our Blue Buzzah code has been posted that includes:
 - Randomized frequency is now tested and in specs - allowing randomized frequency for every buzz sequence within a range set by the user (for example the frequency range may be set to range from 220 Hz and 260 Hz in which case you might have frequency of 225 Hz one sequence, then 253 Hz the next, then 237 Hz and so on. It is an feature to help prevent habituation to the buzzing)
 - **IMPORTANT: It is no longer necessary to change the pattern type when adjusting default parameters.  Please now disregard the section on pattern type on page 67 of build instructions version 1.2.  Instead, users should leave PATTERN_TYPE = "RNDP"  for all settings.**
 
-# 7-27-25 SOLDERING BAT CONNECTION  ![soldering BAT connection](https://github.com/user-attachments/assets/3af009d5-6f3c-488e-895b-4e60a2b95489)
-
+# 7-27-25 NOTE ABOUT SOLDERING BAT CONNECTION  
+![soldering BAT connection4](https://github.com/user-attachments/assets/42566705-f391-449e-af5e-26177d48cfab)
+- Be careful when soldering the BAT connection on top of the feather.  It's proximity to the battery socket makes it difficult to solder. If you're not careful, it is easy to get too much solder on that connection and end up with a ball of solder going over to the battery nearby socket and grounding out your connection.
 
