@@ -21,5 +21,5 @@ A new version of our Blue Buzzah code has been posted that includes:
 - However, since only the 9 pins we identified on the top of the PCB are active in our design in step 2.2e, we are now changing this recommendation.   In order to minimize the potential for novice builders making an error during soldering, especially in areas where traces run near to connections as shown above, we now recommend that builders only solder the nine active pins under the PCB.
   ![sold rec 2](https://github.com/user-attachments/assets/ac5a2b52-e328-4438-ae99-2fb801e1cbae)
 
-# 7-27-25 COMING SOON: BLUE BUZZAH SHOES!
+# 7-27-25 IN TESTING: BLUE BUZZAH SHOES!
 ![bb shoes2](https://github.com/user-attachments/assets/06aa9b5b-3bff-41fe-bd4b-18d34a031c4c)
