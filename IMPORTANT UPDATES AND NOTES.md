@@ -1,5 +1,5 @@
 # 05-06-25: NOTE FOR 3D print .STL FILES:
-indicating that the lids for the Blue Buzzah tactors and enclosures rely on a precise friction fit that was designed using a Bambu P1S printer with ABS filament.  Using a different type of printer and/or filament may result in enclosure lids and tactor caps that ending up being too tight or too loose.  The Etsy vendor listed in our parts list has verified proper fit of a test print of our STL using his Bambu X1C printer.  
+Added note in stl files indicating that the lids for the Blue Buzzah tactors and enclosures rely on a precise friction fit that was designed using a Bambu P1S printer with ABS filament.  Using a different type of printer and/or filament may result in enclosure lids and tactor caps that ending up being too tight or too loose.  The Etsy vendor listed in our parts list has verified proper fit of a test print of our STL using his Bambu X1C printer.  
 
 # 6-2-25: UPDATED 3D PRINT FILES FOR ENCLOSURES AND TACTORS:  
 Enclosure changes:  - 2mm higher to make sure the PCB module doesnt bump the inside ceiling. - no more cosmetic artifact that upsets some 3D print vendors in the wire exit window.  - larger window for USB connector
