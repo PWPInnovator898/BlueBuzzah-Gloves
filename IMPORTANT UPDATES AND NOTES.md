@@ -66,5 +66,42 @@ When fitting gloves, a user must also take care not to get the fit so tight that
 ![12 no glove small 2](https://github.com/user-attachments/assets/f1eb4e5b-a2a4-4d60-88b2-c661fab77662)
 - ![12 no glove small 3](https://github.com/user-attachments/assets/f5bc16a5-d9cb-4e2e-bea4-45f03a4ba3eb)
 
+# 13) DEALING WITH A JAMMED BUTTON  
+- If the spring inside the tactor is not centered under the button flange, the off-center force from the spring can cause the button to become lodged sideways in the button hole of the case.  If this happens, the user will feel greatly reduced vibrations since the button’s motion is impeded. 
+- If a tactor develops this problem, the button can usually be freed up by slapping the side of the case on a table top.  To keep the jam from reoccurring, the button must be taken apart and reassembled with the spring properly centered under the button flange.  (Note that we have found that the springs do not “wander” from their positions inside the case once in place, even though they are not glued.)
+![13 Jammed Button](https://github.com/user-attachments/assets/fb0d0a34-cad8-4883-a86e-3212b762b702)
+
+# 14)  AMPLITUDE NEEDS TO BE SET LOWER
+- A number of users who have changed from foam tactors to our spring tactors have commented that the buzzes feel much more point-focused.  This is because the weak tactor springs more effectively decouple the LRA vibration from the case.  However, with less energy going into the case, more energy ends up going into the button, leading to higher amplitude vibrations being transmitted to the fingertip.  
+- Tass specifications call for the lowest amplitude that can provide noticeable point-like vibrations.  
+- Accordingly, most users will typically need to adjust the right and left default amplitude settings downward during initial set up in order to achieve the smallest amplitude setting that still provides an easily noticeable and localized vibration to the fingertips as called for in Tass specifications.  If amplitude is set too high, efficacy of the therapy may be compromised.
+- I use an amplitude setting of 40 and it seems plenty strong
+![14 amplitude 40](https://github.com/user-attachments/assets/04557ee5-8053-4977-8bc6-c76c3a2309c6)
+
+# 15) NOTE ABOUT USING AMPLITUDE RANDOMIZATION
+- The Blue Buzzah system has an AMPLITUDE RANDOMIZATION feature that can be activated in the defaults file by setting the MIN level lower than the MAX level.  
+- We here at the Blue Buzzah development team disagree about whether to use this feature in our own therapy sessions.  I do not use this feature because I feel a need to have a continual level of awareness of whether I am getting the proper vibrational strength from all my buzzers during therapy.  If I have amplitude randomization active and I get accustomed to feeling varying buzz amplitudes on my fingertips, I fear a misaligned fingertip placement that happens as a result of hand movement might go unnoticed.  In other words, I worry that I might mistake a weak buzz from a misaligned tactor for a normal randomized dip in amplitude,  For me, the potential enhancement of therapy afforded by amplitude randomization is outweighed by the danger of compromised therapy that could be caused by a diminished awareness of finger vibrations that may come from having the intentional variability in amplitude.  
+- In contrast, my fellow Blue Buzzah team member is less concerned about the potential of an unnoticed misaligned fingertip placement.  Accordingly, he always implements amplitude randomization in his sessions and feels it greatly enhances his therapy efficacy.  In any case, if a user to decides to engage the amplitude randomization feature, they must exercise extra caution to monitor finger vibrations occasionally during therapy to avoid having an unnoticed misaligned tactor placement.  
+
+# 16)  SEEK EXPERT HELP IF YOU ARE NEW TO SOLDERING 
+- I worked with a novice builder who had zero knowledge of electronics at the start of the project. I was truly surprised how quickly she was able to quickly master soldering technique to the point she was able to solder better than me!  Here joints looked like they were made by a machine!  
+- However, since she had no basic understanding of electronics, she often made rookie errors that would have ended up causing problems if I had not been checking on her work from time to time.  For example, since she did not initially understand why wires have rubber insulation, she was initially careless about leaving long lengths of exposed wire near her solder joints.  
+- Another concern for absolute electronics beginners attempting to build their own gloves is that they will have difficulties troubleshooting what is wrong if things don’t initially work when they turn their circuits on the first time.  
+- So, for builders who have never tinkered with electronics, it would probably be best to hire a technician to do the electronics assembly which is very straightforward for someone with a bit of experience.  At the very least, someone new to electronics should take time to watch a YouTube video on beginner electronics and practice soldering a bit before jumping into this project.   
+
+# 17)  RECOMMENDATION CHANGE: SOLDERING UNUSED PINS 
+- In our build pdf version 1.2, we previously recommended that builders solder all of the pins from the headers on the underside of the PCB. However, since only the 9 pins we identified on the top of the PCB are active in our design, we have now changed this recommendation.
+-  In order to minimize the potential for novice builders making an error during soldering, especially in areas where traces run near to connections as shown below, we now recommend that builders only solder the nine active pins under the PCB. 
+![16 rex chane soldering pins](https://github.com/user-attachments/assets/377851e1-fdf9-4c43-a439-29487d1e9a9b)
+
+# 18) REC CHANGE: INSTALL SOCKETS ON PCB 
+- This note makes no difference if you have already assembled your electronics since the original design works fine.  However, if you are starting a new build, you can make your box about 10% shorter if you adopt this change.  Many users would not notice this small difference in height.
+- In our original design, we recommended mounting the hollow header sockets to the bottom of the Feather module, with the regular PCB headers mounted on the PCB board.  We now realize that this configuration leaves the long pins of the regular headers going into the sockets, causing about 2 mm of unneeded height to the Feather since the long pins bottom out in the sockets.  
+- In recent set ups, we have switched to installing the regular headers on the Feather module with short pins sticking down toward the PCB.  
+- By mounting the sockets on the PCB, the short pins of the headers end up mating perfectly with the sockets.  
+- To avoid confusion, I have not posted the 3D print of the shortened lid that takes advantage of the 2 mm height savings.  However, I would be happy to provide the STL for the shortened lid upon request.  
+ ![18 sock rec](https://github.com/user-attachments/assets/576275b1-9360-4c27-ac55-a901415c1573)
+
+
 
 
