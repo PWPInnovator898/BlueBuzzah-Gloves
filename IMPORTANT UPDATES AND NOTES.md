@@ -29,7 +29,8 @@ The June 24, 2025 version of our Blue Buzzah code includes the following fixes t
 ![bb shoes2](https://github.com/user-attachments/assets/06aa9b5b-3bff-41fe-bd4b-18d34a031c4c)
 
 # 7) PICTURES OF DIY GLOVES SENT IN FROM BLUE BUZZAH USERS
-- Will upload pics soon! 
+![09 usders ex 1](https://github.com/user-attachments/assets/ac1fae92-d7b1-4174-b18e-63fe5d02945a)
+- more to come...
 
 # 8) THE BB GLOVE IS CHALLENGING TO FIT PERFECTLY:
 To be clear, the Blue Buzzah was not designed to maximize ease of construction for novice builders and provide for foolproof operation for novice users.  These admirable qualities be found in some other DIY designs, but not with ours.  Instead, we designed our gloves to meet our needs which are (in order of importance): 
@@ -57,4 +58,13 @@ When fitting gloves, a user must also take care not to get the fit so tight that
 - While this custom design requires some additional work to make the finger cots, it elegantly avoids the need for builders to bring a tactor to the glove store to try out the fit of numerous gloves to get a perfect fit.   
 ![11 user fingers 2](https://github.com/user-attachments/assets/e83a945f-6d16-4c77-abf4-50a53765dbb2)
 ![11 user fingers assemby](https://github.com/user-attachments/assets/502624f7-95df-46a0-8a56-0c68439e4f5a)
+
+# 12) SOME BUILDERS ARE MAKING GLOVES WITHOUT GLOVES
+- Some builders who wanted to forgo the considerable hassle of fitting the tactors into glove fingertips, have connected tactors to fingers in novel ways.  
+- Such arrangements make the apparatus harder to put on and off, and create limits to dexterity, but reduce building effort without compromising therapy efficacy.
+- ![12 no glove small 5](https://github.com/user-attachments/assets/11a10ebe-f44b-4838-a60b-28cb5c10316b)
+![12 no glove small 2](https://github.com/user-attachments/assets/f1eb4e5b-a2a4-4d60-88b2-c661fab77662)
+- ![12 no glove small 3](https://github.com/user-attachments/assets/f5bc16a5-d9cb-4e2e-bea4-45f03a4ba3eb)
+
+
 
