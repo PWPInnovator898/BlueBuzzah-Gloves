@@ -1,5 +1,30 @@
+# TABLE OF CONTENTS
+- (1) IT IS BEST TO USE BAMBU PRINTER TO MAKE 3D PRINTS, 5-06-25: 
+- (2) POSTED UPDATED 3D PRINT FILES, 6-2-25:  
+- (3) UPDATED BLUE BUZZAH CODE, 7-10-25: 
+- (4) BE CAREFUL SOLDERING BAT CONNECTION, 7-27-25:   
+- (5) UPDATE TO SOLDERING RECOMMENDATIONS, 7-27-25: 
+- (6) WE ARE TESTING BLUE BUZZAH SHOES, 7-27-25: 
+- (7) PICTURES OF DIY GLOVES SENT IN FROM BLUE BUZZAH USERS
+- (8) THE BB GLOVE IS CHALLENGING TO FIT PERFECTLY:
+- (9) SOME USERS ARE GETTING FINGER FIT TOO LOOSE
+- (10) I MADE A SET THAT WAS TOO TIGHT
+- (11) ELEGANT CUSTOM DESIGN FROM A BB USER FOR FINGERTIPS
+- (12) SOME BUILDERS ARE MAKING GLOVES WITHOUT GLOVES
+- (13) DEALING WITH A JAMMED BUTTON  
+- (14) AMPLITUDE NEEDS TO BE SET LOWER
+- (15) NOTE ABOUT USING AMPLITUDE RANDOMIZATION
+- (16) SEEK EXPERT HELP IF YOU ARE NEW TO SOLDERING 
+- (17) USING AN APPLE COMPUTER TO FORMAT FEATHER MODULES
+- (18) RECOMMENDATION CHANGE: INSTALL SOCKETS ON PCB 
+- (19) TENDONITIS REPORT FROM EXCEEDING 2 HOUR SESSIONS    
+- (20) RIGHT AND LEFT DEFAULTS FILES MUST BE IDENTICAL
+- (21) RARE BLUETOOTH INTERFERENCE PROBLEMS REPORTED
+- (22) START BOTH GLOVES TOGETHER TO AVOID TIMEOUT ERROR
+
 # 1) IT IS BEST TO USE BAMBU PRINTER TO MAKE 3D PRINTS, 5-06-25: 
 Added note in stl files indicating that the lids for the Blue Buzzah tactors and enclosures rely on a precise friction fit that was designed using a Bambu P1S printer with ABS filament.  Using a different type of printer and/or filament may result in enclosure lids and tactor caps that ending up being too tight or too loose.  The Etsy vendor listed in our parts list has verified proper fit of a test print of our STL using his Bambu X1C printer.  
+![01 bambu](https://github.com/user-attachments/assets/8610dfcf-fe1f-40ab-b48d-7b67145a6be7)
 
 # 2) POSTED UPDATED 3D PRINT FILES, 6-2-25:  
 - Made lid 2mm higher to make sure the PCB module doesn’t bump the inside ceiling
@@ -89,10 +114,9 @@ When fitting gloves, a user must also take care not to get the fit so tight that
 - Another concern for absolute electronics beginners attempting to build their own gloves is that they will have difficulties troubleshooting what is wrong if things don’t initially work when they turn their circuits on the first time.  
 - So, for builders who have never tinkered with electronics, it would probably be best to hire a technician to do the electronics assembly which is very straightforward for someone with a bit of experience.  At the very least, someone new to electronics should take time to watch a YouTube video on beginner electronics and practice soldering a bit before jumping into this project.   
 
-# 17)  RECOMMENDATION CHANGE: SOLDERING UNUSED PINS 
-- In our build pdf version 1.2, we previously recommended that builders solder all of the pins from the headers on the underside of the PCB. However, since only the 9 pins we identified on the top of the PCB are active in our design, we have now changed this recommendation.
--  In order to minimize the potential for novice builders making an error during soldering, especially in areas where traces run near to connections as shown below, we now recommend that builders only solder the nine active pins under the PCB. 
-![16 rex chane soldering pins](https://github.com/user-attachments/assets/377851e1-fdf9-4c43-a439-29487d1e9a9b)
+# 17)  USING AN APPLE COMPUTER TO FORMAT FEATHER MODULES
+In one instance, an Apple computer user experienced problems while formatting a Feather module using an Apple computer (instead of a PC computer).   In this case the Feather modules would not properly format using the Apple computer.  The problem went away when the user switched to using a PC to format the Feathers.  This may be an isolated instance related to this particular Apple computer since one member of our Blue Buzzah team routinely uses a Mac to format his Feather modules.  I have only used a PC and never had any issues. 
+
 
 # 18) RECOMMENDATION CHANGE: INSTALL SOCKETS ON PCB 
 - This note makes no difference if you have already assembled your electronics since the original design works fine.  However, if you are starting a new build, you can make your box about 10% shorter if you adopt this change.  Many users would not notice this small difference in height.
@@ -102,6 +126,27 @@ When fitting gloves, a user must also take care not to get the fit so tight that
 - To avoid confusion, I have not posted the 3D print of the shortened lid that takes advantage of the 2 mm height savings.  However, I would be happy to provide the STL for the shortened lid upon request.  
  ![18 sock rec](https://github.com/user-attachments/assets/576275b1-9360-4c27-ac55-a901415c1573)
 
+# 19)  TENDONITIS REPORT FROM EXCEEDING 2 HOUR SESSIONS    
+- This usage note comes from this author’s own general experience with glove therapy and is not related to the Blue Buzzah specifically.
+- Upon wondering if longer sessions would lead to better results with tremor, I decided to try doubling the length of one buzz session to 4 hours.  Dr. Tass recommendations call for 2 hour sessions.
+- This turned out to be a very bad idea!!!  My initial results were immediately amazing – no tremor after my first evening session which lasted into the next morning!!!  I then continued the next 3 days to buzz 2 hours in the morning, then 4 hours in the evenings.  
+- After only 3 days of extended therapy sessions, I noticed I was getting symptoms of trigger finger and tendonitis in ALL 8 buzz fingers.  I immediately stopped buzzing to let my hands recover.  For the first time in almost 2 years, I went 4 days with no vibrating glove therapy.  All my non-tremor symptoms which had been suppressed by the therapy happily remained unaffected by the pause, but I could immediately tell I was getting a bit more tremor without my glove therapy.  
+-  After the 4 days with no therapy, my tremor started to get much worse so I started back on my glove therapy using only 1 hour sessions since my tendonitis had not healed.  Adjusting my therapy in this way, all my fingers eventually healed except my middle finger on my left hand which went into complete trigger finger.  I made a special glove that only buzzes on my left thumb, index finger, and pinky which I continue to use now, 10 weeks later.   
+   
+# 20)  RIGHT AND LEFT DEFAULTS FILES MUST BE IDENTICAL
+- I don’t know if any other user has had this problem, but I once changed the defaults settings on one glove and forgot to make identical changes to the defaults settings on the other glove as is currently required by our system.  
+- The gloves then behaved erratically and would not maintain sync.  (In other words, the slave glove kept stopping during therapy).  It took me quite some time to figure out that the gloves were having trouble because I had their defaults files set differently.  
+
+# 21)  RARE BLUETOOTH INTERFERENCE PROBLEMS REPORTED
+- I have occasionally experienced Bluetooth interference during therapy while using my iphone outdoors.  For me, this has only happened when I was hiking in an area where cell reception was poor (presumably because the iphone increases antenna gain in this circumstance).  
+- The problem was also reported once by a user inside a house who was using an ipad during therapy.  
+- This issue is on our to-do list to fix.  But, until this issue is resolved, be aware that you may lose sync if you are using a Bluetooth device near your gloves during therapy.  If this happens, simply discontinue using your phone during therapy and restart the gloves. 
+
+# 22)  START BOTH GLOVES TOGETHER TO AVOID TIMEOUT ERROR
+- We have had two users who thought their gloves were malfunctioning because they kept going into red light mode. 
+-  In both cases, the problem turned out to be that they were simply taking too long to turn on the second glove after turning on the first.  
+-  Both gloves need to start within 2 seconds.
+-  To avoid this timeout error, simply turn on each glove at the same time before putting the gloves on
 
 
 
