@@ -21,7 +21,8 @@
 - (20) RIGHT AND LEFT DEFAULTS FILES MUST BE IDENTICAL
 - (21) RARE BLUETOOTH INTERFERENCE PROBLEMS REPORTED
 - (22) START BOTH GLOVES TOGETHER TO AVOID TIMEOUT ERROR
-
+- (23) HOW TO PURCHASE SPRINGS INSTEAD OF WINDING DIY, 9-21-25 
+- -----------------------------------------------------------------------------
 # 1) IT IS BEST TO USE BAMBU PRINTER TO MAKE 3D PRINTS, 5-06-25: 
 Added note in stl files indicating that the lids for the Blue Buzzah tactors and enclosures rely on a precise friction fit that was designed using a Bambu P1S printer with ABS filament.  Using a different type of printer and/or filament may result in enclosure lids and tactor caps that ending up being too tight or too loose.  The Etsy vendor listed in our parts list has verified proper fit of a test print of our STL using his Bambu X1C printer.  
 ![01 bambu](https://github.com/user-attachments/assets/8610dfcf-fe1f-40ab-b48d-7b67145a6be7)
@@ -117,7 +118,6 @@ When fitting gloves, a user must also take care not to get the fit so tight that
 # 17)  USING AN APPLE COMPUTER TO FORMAT FEATHER MODULES
 In one instance, an Apple computer user experienced problems while formatting a Feather module using an Apple computer (instead of a PC computer).   In this case the Feather modules would not properly format using the Apple computer.  The problem went away when the user switched to using a PC to format the Feathers.  This may be an isolated instance related to this particular Apple computer since one member of our Blue Buzzah team routinely uses a Mac to format his Feather modules.  I have only used a PC and never had any issues. 
 
-
 # 18) RECOMMENDATION CHANGE: INSTALL SOCKETS ON PCB 
 - This note makes no difference if you have already assembled your electronics since the original design works fine.  However, if you are starting a new build, you can make your box about 10% shorter if you adopt this change.  Many users would not notice this small difference in height.
 - In our original design, we recommended mounting the hollow header sockets to the bottom of the Feather module, with the regular PCB headers mounted on the PCB board.  We now realize that this configuration leaves the long pins of the regular headers going into the sockets, causing about 2 mm of unneeded height to the Feather since the long pins bottom out in the sockets.  
@@ -147,6 +147,20 @@ In one instance, an Apple computer user experienced problems while formatting a 
 -  In both cases, the problem turned out to be that they were simply taking too long to turn on the second glove after turning on the first.  
 -  Both gloves need to start within 2 seconds.
 -  To avoid this timeout error, simply turn on each glove at the same time before putting the gloves on
+
+# 23) HOW TO PURCHASE SPRINGS INSTEAD OF WINDING DIY 
+- The biggest challenge for some users has been making the tactor springs out of 0.012” guitar wire.  The winding technique requires some practice to consistently obtain springs with the proper coil pitch.  
+- ![20 winding springs](https://github.com/user-attachments/assets/a83d4293-8e24-41a7-880f-244ee131c0d1)
+- Happliy, a user in Germany found a set of 10 springs with the proper specifications can be purchased inexpensively on the German Amazon site: https://www.amazon.de/dp/B0DHCP9JJY .  Unfortunately, these German springs are not available in most locations around the world.
+- ![20 guny](https://github.com/user-attachments/assets/8773cdc5-98af-4789-b6e8-5e7abb10d57a)
+- Particularly, all springs available in the US-Amazon of the proper specifications are made of thicker wire and are much too stiff.  
+![20 many springs](https://github.com/user-attachments/assets/bc57dd80-c67d-43e2-ba80-df2d48e7e842)
+- Alternatively, as mentioned in our Tactor Design PDF:
+- https://github.com/TactileDesign/DIY-Vibrating-Parkinsons-Glove/blob/main/Design%20Considerations%20for%20LRA%20Tactors.pdf , 
+- there are suppliers online such as https://www.thespringstore.com/ who advertise having 70 trillion springs available.  Unfortunately, 99.999% of their springs are only available by special order and are outrageously priced at $4 -$10 per spring!  Ordering a special order set of 8 springs like this could cost $50 to $100.  
+- However, users might obtain springs cheaper by purchasing a long single 100-120 mm spring made from diameter 0.012 inch wire, then cut it down to make the eight 11 mm length springs needed in our glove design.  If you decide to special order springs from an online site, make sure you order them with the proper specifications.  Below is a rough guide for users attempting to purchase springs.  (If anyone orders springs in this way, please let us know what kind of results you obtained with your purchase.)
+- ![20 table](https://github.com/user-attachments/assets/5be15252-0b7b-49e2-80c2-fd7d90b1b531)
+
 
 
 
