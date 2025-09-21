@@ -3,7 +3,7 @@
 - (2) POSTED UPDATED 3D PRINT FILES, 6-2-25:  
 - (3) UPDATED BLUE BUZZAH CODE, 7-10-25: 
 - (4) BE CAREFUL SOLDERING BAT CONNECTION, 7-27-25:   
-- (5) UPDATE TO SOLDERING RECOMMENDATIONS, 7-27-25: 
+- (5) NEW RECOMMENDATION: DONT SOLDER UNUSED PINS, 7-27-25: 
 - (6) WE ARE TESTING BLUE BUZZAH SHOES, 7-27-25: 
 - (7) PICTURES OF DIY GLOVES SENT IN FROM BLUE BUZZAH USERS
 - (8) THE BB GLOVE IS CHALLENGING TO FIT PERFECTLY:
@@ -45,7 +45,7 @@ The June 24, 2025 version of our Blue Buzzah code includes the following fixes t
 ![soldering BAT connection4](https://github.com/user-attachments/assets/42566705-f391-449e-af5e-26177d48cfab)
 - The BAT pin is awkward to solder due to its close proximity to the battery socket as shown here.  In one build, I accidentally put too much solder on this pin and the solder overflowed on to a grounding plate for the battery socket.  Since the plastic socket blocks easy access, it was very difficult getting the solder back out.  I ended up needing a desoldering tool to remove the excess solder.   
 
-# 5) UPDATE TO SOLDERING RECOMMENDATIONS, 7-27-25: 
+# 5) NEW RECOMMENDATION: DONT SOLDER UNUSED PINS, 7-27-25: 
 - In Step 2.1 g of the build pdf version 1.2,  we previously recommended that builders solder all of the pins from the headers on the underside of the PCB.
     ![sold rec 1](https://github.com/user-attachments/assets/354dc7b3-edcd-46b4-b100-584c277a320b)
 - However, since only the 9 pins we identified on the top of the PCB are active in our design in step 2.2e, we are now changing this recommendation.   In order to minimize the potential for novice builders making an error during soldering, especially in areas where traces run near to connections as shown above, we now recommend that builders only solder the nine active pins under the PCB.
