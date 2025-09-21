@@ -94,7 +94,7 @@ When fitting gloves, a user must also take care not to get the fit so tight that
 -  In order to minimize the potential for novice builders making an error during soldering, especially in areas where traces run near to connections as shown below, we now recommend that builders only solder the nine active pins under the PCB. 
 ![16 rex chane soldering pins](https://github.com/user-attachments/assets/377851e1-fdf9-4c43-a439-29487d1e9a9b)
 
-# 18) REC CHANGE: INSTALL SOCKETS ON PCB 
+# 18) RECOMMENDATION CHANGE: INSTALL SOCKETS ON PCB 
 - This note makes no difference if you have already assembled your electronics since the original design works fine.  However, if you are starting a new build, you can make your box about 10% shorter if you adopt this change.  Many users would not notice this small difference in height.
 - In our original design, we recommended mounting the hollow header sockets to the bottom of the Feather module, with the regular PCB headers mounted on the PCB board.  We now realize that this configuration leaves the long pins of the regular headers going into the sockets, causing about 2 mm of unneeded height to the Feather since the long pins bottom out in the sockets.  
 - In recent set ups, we have switched to installing the regular headers on the Feather module with short pins sticking down toward the PCB.  
