@@ -21,7 +21,8 @@
 - (20) RIGHT AND LEFT DEFAULTS FILES MUST BE IDENTICAL
 - (21) RARE BLUETOOTH INTERFERENCE PROBLEMS REPORTED
 - (22) START BOTH GLOVES TOGETHER TO AVOID TIMEOUT ERROR
-- (23) HOW TO PURCHASE SPRINGS INSTEAD OF WINDING DIY, 9-21-25 
+- (23) HOW TO PURCHASE SPRINGS INSTEAD OF WINDING DIY, 9-21-25
+- (24) GET A SPARE BATTERY, 9-22-25
 - -----------------------------------------------------------------------------
 # 1) IT IS BEST TO USE BAMBU PRINTER TO MAKE 3D PRINTS, 5-06-25: 
 Added note in stl files indicating that the lids for the Blue Buzzah tactors and enclosures rely on a precise friction fit that was designed using a Bambu P1S printer with ABS filament.  Using a different type of printer and/or filament may result in enclosure lids and tactor caps that ending up being too tight or too loose.  The Etsy vendor listed in our parts list has verified proper fit of a test print of our STL using his Bambu X1C printer.  
@@ -161,6 +162,12 @@ In one instance, an Apple computer user experienced problems while formatting a 
 - However, users might obtain springs cheaper by purchasing a long single 100-120 mm spring made from diameter 0.012 inch wire, then cut it down to make the eight 11 mm length springs needed in our glove design.  If you decide to special order springs from an online site, make sure you order them with the proper specifications.  Below is a rough guide for users attempting to purchase springs.  (If anyone orders springs in this way, please let us know what kind of results you obtained with your purchase.)
 - ![20 table](https://github.com/user-attachments/assets/5be15252-0b7b-49e2-80c2-fd7d90b1b531)
 
+# 24) GET A SPARE BATTERY
+- We have observed two new Adafruit batteries that stopped working within the first few hours of use, one in our own use and one from another DIY builder.  Otherwise, all other batteries we know of have continued to function perfectly, some now with over 9 months of 4-hour daily use.  
+- Builders might consider ordering an extra battery to use as a spare.  This id the only battery we know of that is designed to fit under the feather module.  The feather module has internal circuitry to regulate the charging.
+- One charge provides for more than 10 hours of buzzing.  They are supposued to last 500 charge cycles, which corresponds to 2-3 years of charging every other day.
+- https://cdn-shop.adafruit.com/product-files/3898/3898_specsheet_LP801735_400mAh_3.7V_20161129.pdf
+![battery](https://github.com/user-attachments/assets/1882e7d9-a641-41d0-85c5-c7685196e25a)
 
 
 
