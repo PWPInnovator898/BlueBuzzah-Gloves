@@ -57,7 +57,7 @@ The June 24, 2025 version of our Blue Buzzah code includes the following fixes t
 
 # 7) PICTURES OF DIY GLOVES SENT IN FROM BLUE BUZZAH USERS
 ![09 usders ex 1](https://github.com/user-attachments/assets/ac1fae92-d7b1-4174-b18e-63fe5d02945a)
-- more to come...
+![09 0 el](https://github.com/user-attachments/assets/cc96b12a-8695-42fb-ab71-d933cbef5487)
 
 # 8) THE BB GLOVE IS CHALLENGING TO FIT PERFECTLY:
 To be clear, the Blue Buzzah was not designed to maximize ease of construction for novice builders and provide for foolproof operation for novice users.  These admirable qualities be found in some other DIY designs, but not with ours.  Instead, we designed our gloves to meet our needs which are (in order of importance): 
@@ -81,10 +81,11 @@ When fitting gloves, a user must also take care not to get the fit so tight that
 
 # 11) ELEGANT CUSTOM DESIGN FROM A BB USER FOR FINGERTIPS
 - Here is a very detailed design from one DIY builder who adapted our BB glove design to use custom finger cots tailored to be precisely adjustable with Velcro to the length and diameter of each of the user’s fingers:
-- https://github.com/MDBalen/PD-Glove-Design/blob/main/Tactor%20archery%20glove%20housing%20construction%20final.pdf
 - While this custom design requires some additional work to make the finger cots, it elegantly avoids the need for builders to bring a tactor to the glove store to try out the fit of numerous gloves to get a perfect fit.   
-![11 user fingers 2](https://github.com/user-attachments/assets/e83a945f-6d16-4c77-abf4-50a53765dbb2)
+- https://github.com/MDBalen/PD-Glove-Design/blob/main/Tactor%20archery%20glove%20housing%20construction%20final.pdf
+- ![11 user fingers 2](https://github.com/user-attachments/assets/e83a945f-6d16-4c77-abf4-50a53765dbb2)
 ![11 user fingers assemby](https://github.com/user-attachments/assets/502624f7-95df-46a0-8a56-0c68439e4f5a)
+
 
 # 12) SOME BUILDERS ARE MAKING GLOVES WITHOUT GLOVES
 - Some builders who wanted to forgo the considerable hassle of fitting the tactors into glove fingertips, have connected tactors to fingers in novel ways.  
