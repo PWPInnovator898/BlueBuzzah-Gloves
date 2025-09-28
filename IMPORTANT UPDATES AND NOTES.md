@@ -155,8 +155,7 @@ In one instance, an Apple computer user experienced problems while formatting a 
 - ![20 winding springs](https://github.com/user-attachments/assets/a83d4293-8e24-41a7-880f-244ee131c0d1)
 - Happliy, a user in Germany found a set of 10 springs with the proper specifications can be purchased inexpensively on the German Amazon site: https://www.amazon.de/dp/B0DHCP9JJY .  Unfortunately, these German springs are not available in most locations around the world.
 - ![20 guny](https://github.com/user-attachments/assets/8773cdc5-98af-4789-b6e8-5e7abb10d57a)
-- Here is another link from the same German user that might be shippable to other locations.  Unfortunately when I checked the site, the option for 0.3 mm wire and 8 mm coils was not currently available.
-- https://de.aliexpress.com/item/1005003979430477.html
+- Here is another link from the same German user that might be shippable to other locations.  Unfortunately when I checked the site, the option for 0.3 mm wire and 8 mm coils was not currently available. https://de.aliexpress.com/item/1005003979430477.html
 - Particularly, all springs available in the US-Amazon of the proper specifications are made of thicker wire and are much too stiff.  
 ![20 many springs](https://github.com/user-attachments/assets/bc57dd80-c67d-43e2-ba80-df2d48e7e842)
 - Alternatively, as mentioned in our Tactor Design PDF:
