@@ -63,8 +63,9 @@ The June 24, 2025 version of our Blue Buzzah code includes the following fixes t
 To be clear, the Blue Buzzah was not designed to maximize ease of construction for novice builders and provide for foolproof operation for novice users.  These admirable qualities be found in some other DIY designs, but not with ours.  Instead, we designed our gloves to meet our needs which are (in order of importance): 
 - 1) Closest possible adherence to Tass glove specifications (See detailed review and bench tests at, https://github.com/TactileDesign/Reviews-of-Vibrating-Gloves-for-Parkinsons )
 - 2) Ease of putting on and taking off (See video of first prototype at, https://www.youtube.com/watch?v=fcnbQDe73uA)
-- 3) Highest level of dexterity to promote active lifestyle while using tactors
-- 4) Relatively normal aesthetic appearance when using gloves in public situations  
+- 3) Adjustable parameters
+- 4) Highest level of dexterity to promote active lifestyle while using tactors
+- 5) Relatively normal aesthetic appearance when using gloves in public situations  
 - Not this: Maximum ease of construction for novice builders… No.
 - Not this: Foolproof operation for novice users…  No.
 - As you can see in the images below, as per our design choices, our fingertip tactors are somewhat smaller, less conspicuous, lighter, and easier to put on than the original Tass tactors.  That said, these advantages come with a greater required level of awareness from users.  Specifically, since each tactor is held in place on a user’s by the elasticity of the glove fingers rather than an individually adjusted Velcro lash, the choice of glove size is critical. Our gloves then require a bit more time to fit properly and a continual low level of “buzz awareness” to make sure that the fingertip placement of the tactors remains ideal.  Users who decide to replicate our design need to be aware of these issues in order to ensure that the tactors provide the proper vibration characteristics to the user’s fingertips.  The entire vCR therapy Dr. Tass has described depends on the tactor’s ability to reproduce the very detailed vibration characteristics.  If any issue arises that interferes with the administereation of the buzzes, the potential efficacy of therapy can be compromised. 
