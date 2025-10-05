@@ -53,6 +53,7 @@ The June 24, 2025 version of our Blue Buzzah code includes the following fixes t
   ![sold rec 2](https://github.com/user-attachments/assets/ac5a2b52-e328-4438-ae99-2fb801e1cbae)
 
 # 6) WE ARE TESTING BLUE BUZZAH SHOES, 7-27-25: 
+- The sandals buzz well, and I like the massage feeling on my feet – I crank the amplitude to 100% and the buzzes feel great – but I only use them occasionally when I know I will be sitting at a computer for a while because they are awkward to wear if I am moving around much.  I'm just in the second prototype now, but when I designed them, I didn't realize how much sandals need to flex when you walk!   So, when I'm wearing the buzzer sandals, I have to walk awkwardly like I'm walking on rice paper - otherwise I fear the rather flimsy mounting technique I used will allow the tactors to pop out of their friction fit holes.  I have considered making more robust 3D print stiff buzz sandals - or maybe limited flex….   Perhaps someone else could take up this challenge?  The biggest problem is, when you are standing, the flesh on the bottom of your feet becomes compressed, and less susceptible/sensitive to buzzing.  So, even if you solve the flimsy walking problem, you are probably still not going to want to walk much during therapy.  
 ![bb shoes2](https://github.com/user-attachments/assets/06aa9b5b-3bff-41fe-bd4b-18d34a031c4c)
 
 # 7) PICTURES OF DIY GLOVES SENT IN FROM BLUE BUZZAH USERS
