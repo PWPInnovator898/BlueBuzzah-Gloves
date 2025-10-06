@@ -23,6 +23,7 @@
 - (22) START BOTH GLOVES TOGETHER TO AVOID TIMEOUT ERROR
 - (23) HOW TO PURCHASE SPRINGS INSTEAD OF WINDING DIY, 9-21-25
 - (24) GET A SPARE BATTERY, 9-22-25
+- (25) BODY BUZZAH CONVERSATION FROM HU, 10-6-25
 - -----------------------------------------------------------------------------
 # 1) IT IS BEST TO USE BAMBU PRINTER TO MAKE 3D PRINTS, 5-06-25: 
 Added note in stl files indicating that the lids for the Blue Buzzah tactors and enclosures rely on a precise friction fit that was designed using a Bambu P1S printer with ABS filament.  Using a different type of printer and/or filament may result in enclosure lids and tactor caps that ending up being too tight or too loose.  The Etsy vendor listed in our parts list has verified proper fit of a test print of our STL using his Bambu X1C printer.  
@@ -173,5 +174,9 @@ In one instance, an Apple computer user experienced problems while formatting a 
 - https://cdn-shop.adafruit.com/product-files/3898/3898_specsheet_LP801735_400mAh_3.7V_20161129.pdf
 ![battery](https://github.com/user-attachments/assets/1882e7d9-a641-41d0-85c5-c7685196e25a)
 
+#25) BODY BUZZAH CONVERSATION FROM HEALTH UNLOCKED
+- From user named Birdflow: I have considered applying vibratory stimulation to the ankle. Taking into account the dermatomes of the sensory nerves, I focused on the anterior and posterior aspects of the tibial and fibular regions. A mesh bandage proved convenient for securing the vibrator.
+- My response: I also experimented with a "body buzzah" where I stimulated ankle, knee, abdomen and jaw. The RVS vibration pattern effect was truly immersive - and I think it might have proven to give great results, but I found the wires running from my feet to head to be way too restrictive - and it took 25 minutes to put on and that required help from my wife to get all the wires tucked away - so it was too impractical for regular use. I took it on one hike and I felt like a puppet connected to a marionette the whole time! I made a second prototype using a neck build design to help with the awful wire tangle and slack - it was better, but I gave up on the idea after a week...  What we need to make a whole body buzzah viable is individual self contained buzzers that are all linked wirelessly with each buzzer having its own integrated controller and battery. I have a new inexpensive ($20) 2-buzzer DIY version of this I hope to post instructions for this week - but with only two buzzers it will have limited capability for Tass RVS - more like a wireless 2 buzzer Beech Band. For the near term, our best body buzzah option will probably just be our 8 buzzer Blue Buzzah system (wireless between controllers, but with wires to buzzers) focused on a limited body area like you suggested with your leg/feet areas. In your application with limited body area, the wires to the buzzers are not so restricting or so hard to put on.
+- ![00 puppet](https://github.com/user-attachments/assets/aa011176-e979-491a-a3f6-b9962c772a39)
 
 
