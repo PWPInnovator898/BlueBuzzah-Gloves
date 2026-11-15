@@ -1,15 +1,17 @@
-# BlueBuzzah Gloves
+# BlueBuzzah Gloves (v2)
 
-The BlueBuzzah Gloves system is an open-source, DIY platform inspired directly by the groundbreaking vibrotactile coordinated reset (VCR) therapy research led by Dr. Peter Tass and others.
+NOTICE: this repository has been archived as of 14-Nov-2026 and is no longer being maintained.
+Please visit https://github.com/BlueBuzzah/BlueBuzzah.com for the active development repository.
 
-An overview of the build process can be found in the attached video: (https://www.youtube.com/watch?v=fcnbQDe73uA) ```-Follow our Github site to keep track of important notes and updates.```
+The BlueBuzzah Gloves system is an open-source, DIY platform inspired directly by the groundbreaking vibrotactile Coordinated Reset (vCR) research led by Dr. Peter Tass of Stanford University, and others.
 
+An overview of the build process can be found in the attached video: (https://www.youtube.com/watch?v=fcnbQDe73uA)
 ![pic small 2](https://github.com/user-attachments/assets/20ace566-87f9-4440-a684-799c48798668)  
 
 ## About the Project
 
 The BlueBuzzah Gloves project was developed by an informal group of "citizen research" collaborators ("BlueBuzzah Partners") focused on advancing access to open-source DIY tools for people with Parkinson's.
-Many people in the extended PD community have active DIY VCR platforms and/or experiments in development.
+It is intended to be used as an educational platform only.  Many groups and people in the extended PD community have active DIY vCR platforms and/or experiments in development.
 
 ## Features
 - Wireless Bluetooth BLE-synchronized vibrotactile stimulation
@@ -32,8 +34,8 @@ Many people in the extended PD community have active DIY VCR platforms and/or ex
 - `ATTRIBUTION.md` – Contributors and references
 - README.md - Project overview
 
-## Disclaimer
-This project is not FDA-approved and is not intended for clinical use.  
+## Disclaimers
+This project and all its contents in this repository are not FDA-approved and are not intended for clinical use.  
 All files are provided for personal use only and "as-is" with no warranty or implied support.  
 Hardware design files are released under a custom non-commercial license (see below).
 Unauthorized cloning or redistribution of this project for commercial use is prohibited.
