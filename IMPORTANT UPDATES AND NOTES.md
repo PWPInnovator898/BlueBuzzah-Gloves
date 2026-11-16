@@ -5,6 +5,8 @@ The BlueBuzzah Gloves (v2) repository was retired effective November 16, 2026.
 - Development, maintenance, and support for v2 have ended.
 - No further bug fixes, security patches, compatibility updates, technical support, or build assistance will be provided for the v2 materials in this repository.
 - The archived files may contain unresolved defects or outdated instructions. Their continued availability does not indicate ongoing testing, validation, or support.
+- The entries below predate retirement; references to planned fixes, future releases, or assistance are no longer current.
+- Personal experiences and statements about therapeutic effects are historical accounts, not evidence establishing safety or effectiveness or recommendations for use.
 - For information about other BlueBuzzah projects and developments, visit https://bluebuzzah.com
 
 # TABLE OF CONTENTS
