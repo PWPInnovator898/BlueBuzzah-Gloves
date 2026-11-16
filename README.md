@@ -7,6 +7,7 @@ NOTICE: RETIRED — BlueBuzzah Gloves (v2)
 - No further bug fixes, security patches, compatibility updates, technical support, or build assistance will be provided for the v2 materials in this repository.
 - The archived files may contain unresolved defects or outdated instructions. Their continued availability does not indicate ongoing testing, validation, or support.
 - For information about other BlueBuzzah projects and developments, visit https://bluebuzzah.com
+- Other BlueBuzzah projects may have separate support arrangements and do not imply v2 support or compatibility.
 
 The BlueBuzzah Gloves system is an open-source, DIY platform inspired directly by the groundbreaking vibrotactile Coordinated Reset (vCR) research led by Dr. Peter Tass of Stanford University, and others.
 
