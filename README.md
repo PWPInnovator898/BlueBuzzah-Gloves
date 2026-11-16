@@ -14,9 +14,9 @@ An overview of the build process can be found in the attached video:
 
 The BlueBuzzah Gloves project was developed by an informal group of "citizen research" collaborators ("BlueBuzzah Partners") focused on advancing access to open-source DIY tools for people with Parkinson's.
 - It is intended to be used as an experimental educational platform only.
-- The design is inspired by published research on vibrotactile coordinated reset stimulation. That research used its own devices, settings and protocols, with participants under medical supervision. 
-- Nothing on this site or in the apps claims that a BlueBuzzah device will produce the same results. Everyone responds differently, and there is no guarantee of any outcome.
+- The design is inspired by published research on vibrotactile coordinated reset stimulation. That research used its own devices, settings and protocols, with participants under medical supervision.
 - BlueBuzzah is not affiliated with, sponsored by or endorsed by Stanford University, the Tass Lab or any other institution, researcher or company.
+- Nothing on this site or in the apps claims that a BlueBuzzah device will produce the same results. Everyone responds differently, and there is no guarantee of any outcome.
 - Nothing here is medical advice. Do not stop or change prescribed medication, DBS settings or any other treatment because of something you read here or did with a device. Talk to your clinician.
 
 ## Features
@@ -49,7 +49,10 @@ Unauthorized cloning or redistribution of this project for commercial use is pro
 
 Important: People with implanted electrodes from deep brain stimulation (DBS), heart pacemakers, or other internal electronic devices should take special precautions around all electronic devices, including BlueBuzzah. Consult your physician before use.
 
-## Liability disclaimer
+## No warranty and limits on liability
+To the extent the law allows, the BlueBuzzah materials are provided "as is" and "as available", with no warranty of any kind, including no implied warranty of merchantability, fitness for a particular purpose or non-infringement. To the extent the law allows, BlueBuzzah Partners and the volunteers who contribute to the project are not liable for any indirect, incidental, special, consequential or punitive damages, or for any loss of data, injury or other loss, arising from the BlueBuzzah materials or from any device built from them.
+Some laws do not allow these exclusions. Nothing in these terms limits any right or liability that the law does not let us limit.
+
 You build and use these devices and software at your own risk.
 The developers, contributors, and documentation authors assume no liability for any injury, damage, or other consequences resulting from the construction or use of these devices and software.
 Specific outcomes from the devices and software are not specified.
@@ -61,7 +64,8 @@ Improper assembly or use could result in electrical shock, fire, or burns.
 Follow all safety precautions when handling electronic components and tools.
 Use only the specified components from trusted suppliers
 
-See `ATTRIBUTION.md` for full credits.
+## Attribution
+See `ATTRIBUTION.md` for contributor credits and scientific references.
 
 ## Multiple License Summary
 This project uses multiple licenses: 
@@ -74,4 +78,5 @@ This project uses multiple licenses:
 - All PCB, enclosure, and glove design files:
 - https://github.com/PWPInnovator898/BlueBuzzah-Gloves/blob/main/LICENSE/Hardware-License
 
-Please refer to `ATTRIBUTION.md` for contributor credits and scientific references.
+## Changes to these terms
+We may update these terms. Using the repository website after a change means you accept these terms.
