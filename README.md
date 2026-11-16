@@ -1,17 +1,23 @@
 # BlueBuzzah Gloves (v2)
 
-NOTICE: this repository has been archived as of 14-Nov-2026 and is no longer being maintained.
-Please visit https://github.com/BlueBuzzah/BlueBuzzah.com for the active development repository.
+NOTICE: this repository has been archived as of 15-Nov-2026 and is no longer being maintained.
+- Please visit https://github.com/BlueBuzzah/BlueBuzzah.com for follow up developments.
 
 The BlueBuzzah Gloves system is an open-source, DIY platform inspired directly by the groundbreaking vibrotactile Coordinated Reset (vCR) research led by Dr. Peter Tass of Stanford University, and others.
 
-An overview of the build process can be found in the attached video: (https://www.youtube.com/watch?v=fcnbQDe73uA)
+An overview of the build process can be found in the attached video:
+(https://www.youtube.com/watch?v=fcnbQDe73uA)
+
 ![pic small 2](https://github.com/user-attachments/assets/20ace566-87f9-4440-a684-799c48798668)  
 
 ## About the Project
 
 The BlueBuzzah Gloves project was developed by an informal group of "citizen research" collaborators ("BlueBuzzah Partners") focused on advancing access to open-source DIY tools for people with Parkinson's.
-It is intended to be used as an educational platform only.  Many groups and people in the extended PD community have active DIY vCR platforms and/or experiments in development.
+- It is intended to be used as an experimental educational platform only.
+- The design is inspired by published research on vibrotactile coordinated reset stimulation. That research used its own devices, settings and protocols, with participants under medical supervision. 
+- Nothing on this site or in the apps claims that a BlueBuzzah device will produce the same results. Everyone responds differently, and there is no guarantee of any outcome.
+- BlueBuzzah is not affiliated with, sponsored by or endorsed by Stanford University, the Tass Lab or any other institution, researcher or company.
+- Nothing here is medical advice. Do not stop or change prescribed medication, DBS settings or any other treatment because of something you read here or did with a device. Talk to your clinician.
 
 ## Features
 - Wireless Bluetooth BLE-synchronized vibrotactile stimulation
@@ -37,13 +43,27 @@ It is intended to be used as an educational platform only.  Many groups and peop
 ## Disclaimers
 This project and all its contents in this repository are not FDA-approved and are not intended for clinical use.  
 All files are provided for personal use only and "as-is" with no warranty or implied support.  
-Hardware design files are released under a custom non-commercial license (see below).
+BlueBuzzah devices are not FDA cleared or approved medical devices and not intended to diagnose, treat, cure, mitigate, or prevent any disease. 
+The information provided through BlueBuzzah is for experimental educational purposes only and not a substitute for professional medical advice, diagnosis, or treatment.
 Unauthorized cloning or redistribution of this project for commercial use is prohibited.
+
+Important: People with implanted electrodes from deep brain stimulation (DBS), heart pacemakers, or other internal electronic devices should take special precautions around all electronic devices, including BlueBuzzah. Consult your physician before use.
+
+## Liability disclaimer
+You build and use these devices and software at your own risk.
+The developers, contributors, and documentation authors assume no liability for any injury, damage, or other consequences resulting from the construction or use of these devices and software.
+Specific outcomes from the devices and software are not specified.
+By proceeding with building devices as described by the documentation herein, you acknowledge that you understand and accept these risks.
+
+## Safety
+The devices described in this repository contain electronic components, including lithium batteries.
+Improper assembly or use could result in electrical shock, fire, or burns.
+Follow all safety precautions when handling electronic components and tools.
+Use only the specified components from trusted suppliers
 
 See `ATTRIBUTION.md` for full credits.
 
 ## Multiple License Summary
-
 This project uses multiple licenses: 
 
 ### Software
