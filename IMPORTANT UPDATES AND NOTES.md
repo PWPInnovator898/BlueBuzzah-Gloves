@@ -1,3 +1,12 @@
+NOTICE: RETIRED — BlueBuzzah Gloves (v2)
+
+The BlueBuzzah Gloves (v2) repository was retired effective November 16, 2026. 
+- This repository is archived and retained for historical reference.
+- Development, maintenance, and support for v2 have ended.
+- No further bug fixes, security patches, compatibility updates, technical support, or build assistance will be provided for the v2 materials in this repository.
+- The archived files may contain unresolved defects or outdated instructions. Their continued availability does not indicate ongoing testing, validation, or support.
+- For information about other BlueBuzzah projects and developments, visit https://bluebuzzah.com
+
 # TABLE OF CONTENTS
 - (1) IT IS BEST TO USE BAMBU PRINTER TO MAKE 3D PRINTS, 5-06-25: 
 - (2) POSTED UPDATED 3D PRINT FILES, 6-2-25:  
