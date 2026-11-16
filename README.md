@@ -1,11 +1,16 @@
 # BlueBuzzah Gloves (v2)
 
-NOTICE: this repository has been archived as of 15-Nov-2026 and is no longer being maintained.
-- Please visit https://github.com/BlueBuzzah/BlueBuzzah.com for follow up developments.
+NOTICE: RETIRED — BlueBuzzah Gloves (v2)
+- The BlueBuzzah Gloves (v2) repository was retired effective November 16, 2026. 
+- This repository is archived and retained for historical reference.
+- Development, maintenance, and support for v2 have ended. 
+- No further bug fixes, security patches, compatibility updates, technical support, or build assistance will be provided for the v2 materials in this repository.
+- The archived files may contain unresolved defects or outdated instructions. Their continued availability does not indicate ongoing testing, validation, or support.
+- For information about other BlueBuzzah projects and developments, visit https://bluebuzzah.com
 
 The BlueBuzzah Gloves system is an open-source, DIY platform inspired directly by the groundbreaking vibrotactile Coordinated Reset (vCR) research led by Dr. Peter Tass of Stanford University, and others.
 
-An overview of the build process can be found in the attached video:
+An overview of the glove build process can be found in the attached video:
 (https://www.youtube.com/watch?v=fcnbQDe73uA)
 
 ![pic small 2](https://github.com/user-attachments/assets/20ace566-87f9-4440-a684-799c48798668)  
@@ -41,13 +46,15 @@ The BlueBuzzah Gloves project was developed by an informal group of "citizen res
 - README.md - Project overview
 
 ## Disclaimers
-This project and all its contents in this repository are not FDA-approved and are not intended for clinical use.  
-All files are provided for personal use only and "as-is" with no warranty or implied support.  
-BlueBuzzah devices are not FDA cleared or approved medical devices and not intended to diagnose, treat, cure, mitigate, or prevent any disease. 
+BlueBuzzah devices and related software are not FDA cleared or approved medical devices and not intended to diagnose, treat, cure, mitigate, or prevent any disease.
+The contents in this repository are not FDA-approved and are not intended for clinical use.  
 The information provided through BlueBuzzah is for experimental educational purposes only and not a substitute for professional medical advice, diagnosis, or treatment.
-Unauthorized cloning or redistribution of this project for commercial use is prohibited.
 
 Important: People with implanted electrodes from deep brain stimulation (DBS), heart pacemakers, or other internal electronic devices should take special precautions around all electronic devices, including BlueBuzzah. Consult your physician before use.
+
+All project files are provided “as is,” without warranty or support, subject to their applicable licenses. 
+Software permissions and conditions are governed by the MIT or GNU GPL v3.0 license, as identified in the Multiple License Summary below.
+The noncommercial restrictions in the custom BlueBuzzah Gloves Hardware License apply only to the hardware design files and related materials covered by that license. They do not apply to software released under the MIT or GNU GPL v3.0 licenses. Consult the applicable license for each component’s permissions, conditions, and restrictions.
 
 ## No warranty and limits on liability
 To the extent the law allows, the BlueBuzzah materials are provided "as is" and "as available", with no warranty of any kind, including no implied warranty of merchantability, fitness for a particular purpose or non-infringement. To the extent the law allows, BlueBuzzah Partners and the volunteers who contribute to the project are not liable for any indirect, incidental, special, consequential or punitive damages, or for any loss of data, injury or other loss, arising from the BlueBuzzah materials or from any device built from them.
@@ -63,6 +70,10 @@ The devices described in this repository contain electronic components, includin
 Improper assembly or use could result in electrical shock, fire, or burns.
 Follow all safety precautions when handling electronic components and tools.
 Use only the specified components from trusted suppliers
+
+## Security status
+Since BlueBuzzah Gloves v2 is retired and unsupported, no security enhancements or fixes are planned. 
+The archived materials are retained for historical and educational reference and should not be relied upon where authenticated device control or guaranteed safe shutdown is required.
 
 ## Attribution
 See `ATTRIBUTION.md` for contributor credits and scientific references.
