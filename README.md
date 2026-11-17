@@ -28,10 +28,10 @@ The BlueBuzzah Gloves project was developed by an informal group of "citizen res
 ## Features
 - Wireless Bluetooth BLE-synchronized vibrotactile stimulation
 - Electronics can be optionally paired with sevearal, LRA-based, open-source glove designs
-- Flexible, customize-able coordinated reset pattern and simulation generation
-- Coordinated  left <--> right glove synchronization
+- Flexible, customize-able coordinated reset pattern and stimulation generation
+- Coordinated left <--> right glove synchronization
 - Innovative LRA tactor design
-- Up to several hours on a single charge
+- Up to several hours operation on a single charge
 - Built upon:
 - Adafruit hardware: [Adafruit Industries](https://www.adafruit.com/)
 - Adafruit CircuitPython libraries: [Adafruit CircuitPython](https://github.com/adafruit/circuitpython)
@@ -83,8 +83,10 @@ See [Attribution](ATTRIBUTION.md) for contributor credits and scientific referen
 This project uses multiple licenses: 
 
 ### Software
-- Most files: [MIT License](LICENSE/MIT.txt)
-- `main_program_VCR.py`: [GNU GPL v3.0](LICENSE/GPL-3.0.txt)
+- **GPL-3.0:** `main_program_VCR.py` and applicable modifications derived from the original Buzzah project.
+- **MIT:** Independently licensed software components, where applicable.
+- **Third-party libraries:** Subject to their respective upstream licenses.
+- Distribution of the combined CircuitPython firmware remains subject to applicable GPL-3.0 requirements.
 
 ### CircuitPython Firmware Licensing
 - The BlueBuzzah Gloves v2 CircuitPython stimulation firmware was derived from the [Original Buzzah Project](https://github.com/kriswilk/buzzah), licensed under the GNU General Public License version 3.
