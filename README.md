@@ -80,11 +80,11 @@ The archived materials are retained for historical and educational reference and
 See [Attribution](ATTRIBUTION.md) for contributor credits and scientific references.
 
 ## Multiple License Summary
-This project uses multiple licenses: 
+This project uses multiple licenses.
 
 ### Software
-- **[GPL-3.0](LICENSES/GPL-3.0.txt):** `main_program_VCR.py` and applicable modifications derived from the [original Buzzah project](https://github.com/kriswilk/buzzah).
-- **[MIT License](LICENSES/MIT.txt):** Independently licensed software components, where applicable.
+- **[GPL-3.0](LICENSE/GPL-3.0.txt):** `main_program_VCR.py` and applicable modifications derived from the [original Buzzah project](https://github.com/kriswilk/buzzah).
+- **[MIT License](LICENSE/MIT.txt):** Independently licensed software components, where applicable.
 - **Third-party libraries:** Subject to their respective upstream licenses, including [Adafruit CircuitPython](https://github.com/adafruit/Adafruit_CircuitPython_Bundle).
 
 Distribution of the combined CircuitPython firmware remains subject to applicable GPL-3.0 requirements.
