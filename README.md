@@ -1,20 +1,20 @@
 # BlueBuzzah Gloves (v2)
 
 NOTICE: RETIRED — BlueBuzzah Gloves (v2)
-- The BlueBuzzah Gloves (v2) repository was retired effective November 16, 2026. 
+- The BlueBuzzah Gloves (v2) repository was retired effective November 17, 2026. 
 - This repository is archived and retained for historical reference.
 - Development, maintenance, and support for v2 have ended. 
 - No further bug fixes, security patches, compatibility updates, technical support, or build assistance will be provided for the v2 materials in this repository.
 - The archived files may contain unresolved defects or outdated instructions. Their continued availability does not indicate ongoing testing, validation, or support.
-- For information about other BlueBuzzah projects and developments, visit https://bluebuzzah.com
+- For information about other BlueBuzzah projects and developments, visit [BlueBuzzah Website](https://bluebuzzah.com)
 - Other BlueBuzzah projects may have separate support arrangements and do not imply v2 support or compatibility.
 
 The BlueBuzzah Gloves system is an open-source, DIY platform inspired directly by the groundbreaking vibrotactile Coordinated Reset (vCR) research led by Dr. Peter Tass of Stanford University, and others.
 
 An overview of the glove build process can be found in the attached video:
-(https://www.youtube.com/watch?v=fcnbQDe73uA)
+- [Watch Video](https://www.youtube.com/watch?v=fcnbQDe73uA)
 
-![pic small 2](https://github.com/user-attachments/assets/20ace566-87f9-4440-a684-799c48798668)  
+![BlueBuzzah Gloves](https://github.com/user-attachments/assets/20ace566-87f9-4440-a684-799c48798668)
 
 ## About the Project
 
@@ -29,13 +29,13 @@ The BlueBuzzah Gloves project was developed by an informal group of "citizen res
 - Wireless Bluetooth BLE-synchronized vibrotactile stimulation
 - Electronics can be optionally paired with sevearal, LRA-based, open-source glove designs
 - Flexible, customize-able coordinated reset pattern and simulation generation
-- Highly precise  left <--> right glove synchronization
+- Coordinated  left <--> right glove synchronization
 - Innovative LRA tactor design
-- Up to 8+ hours on a single charge
+- Up to several hours on a single charge
 - Built upon:
-  - Adafruit hardware @ https://www.adafruit.com/
-  - Adafruit CircuitPython libraries @ https://github.com/adafruit/circuitpython
-  - Coordinated reset CircuitPython software from the Buzzah project: https://github.com/kriswilk/buzzah
+- Adafruit hardware: [Adafruit Industries](https://www.adafruit.com/)
+- Adafruit CircuitPython libraries: [Adafruit CircuitPython](https://github.com/adafruit/circuitpython)
+- Coordinated reset CircuitPython software from the [Original Buzzah Project](https://github.com/kriswilk/buzzah)
 
 ## Project Structure
 - 3D PRINTS - STL design files for tactor housings and enclosures
@@ -77,7 +77,7 @@ Since BlueBuzzah Gloves v2 is retired and unsupported, no security enhancements 
 The archived materials are retained for historical and educational reference and should not be relied upon where authenticated device control or guaranteed safe shutdown is required.
 
 ## Attribution
-See `ATTRIBUTION.md` for contributor credits and scientific references.
+See [Attribution](ATTRIBUTION.md) for contributor credits and scientific references.
 
 ## Multiple License Summary
 This project uses multiple licenses: 
@@ -86,9 +86,14 @@ This project uses multiple licenses:
 - Most files: [MIT License](LICENSE/MIT.txt)
 - `main_program_VCR.py`: [GNU GPL v3.0](LICENSE/GPL-3.0.txt)
 
+### CircuitPython Firmware Licensing
+- The BlueBuzzah Gloves v2 CircuitPython stimulation firmware was derived from the [Original Buzzah Project](https://github.com/kriswilk/buzzah), licensed under the GNU General Public License version 3.
+- BlueBuzzah Partners subsequently developed substantial enhancements, including Bluetooth communication, bilateral synchronization, and additional firmware capabilities.
+- See the [Attribution](ATTRIBUTION.md) document for additional details. 
+
 ### Hardware
 - All PCB, enclosure, and glove design files:
-- https://github.com/PWPInnovator898/BlueBuzzah-Gloves/blob/main/LICENSE/Hardware-License
+- [Hardware License](https://github.com/PWPInnovator898/BlueBuzzah-Gloves/blob/main/LICENSE/Hardware-License)
 
 ## Changes to these terms
 We may update these terms. Using the repository website after a change means you accept these terms.
