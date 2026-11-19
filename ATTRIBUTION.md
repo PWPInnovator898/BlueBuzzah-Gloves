@@ -29,9 +29,9 @@ This paper also has a supplementary materials link that has further information 
 The file `main_program_VCR.mpy` is derived from code licensed (via https://github.com/kriswilk/buzzah)
 under the GNU GPL v3.0.  In compliance with GPL-3.0, the complete corresponding source code for this file is available **by request**.  
 To request the source code, contact: PWPInnovator898 via GitHub.
-We commit to providing the source for at least 3 years after release.
+We commit to providing the source for at least 1 year after release.
 
 ## Hardware Design
 
 All hardware schematics, PCB layouts, 3D models, and glove assembly designs were developed by **BlueBuzzah Partners**.  
-Released under a custom, non-commercial license. See https://github.com/PWPInnovator898/BlueBuzzah-Gloves/blob/main/LICENSES/Hardware-License.
+Released under a custom, non-commercial hardware license. See [BlueBuzzah Hardware License](https://github.com/PWPInnovator898/BlueBuzzah-Gloves/blob/main/LICENSE/Hardware-License).
