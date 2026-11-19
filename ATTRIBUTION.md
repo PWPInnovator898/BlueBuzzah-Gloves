@@ -26,14 +26,11 @@ The project draws significant inspiration from the coordinated reset (CR) neurom
 
 ### Source Availability (GPL-3.0 Compliance Notice)
 
-The file `main_program_VCR.mpy` is derived from code licensed under the GNU GPL v3.0 from the [original Buzzah project](https://github.com/kriswilk/buzzah).
-
-The corresponding source code for the GPL-derived firmware is included in the publicly available firmware archive in this repository.
-
-The applicable GPL-3.0 license is available here: [GNU GPL v3.0 License](https://github.com/PWPInnovator898/BlueBuzzah-Gloves/blob/main/LICENSE/GPL-3.0.txt).
+- The file `main_program_VCR.mpy` is derived from code licensed under the GNU GPL v3.0 from the [original Buzzah project](https://github.com/kriswilk/buzzah).
+- The corresponding source code for the GPL-derived firmware is included in the publicly available firmware archive in this repository.
+- The applicable GPL-3.0 license is available here: [GNU GPL v3.0 License](https://github.com/PWPInnovator898/BlueBuzzah-Gloves/blob/main/LICENSE/GPL-3.0.txt).
 
 ## Hardware Design
 
-All hardware schematics, PCB layouts, 3D models, and glove assembly designs were developed by **BlueBuzzah Partners**.
-
-Released under a custom, non-commercial license. See [BlueBuzzah Hardware License](https://github.com/PWPInnovator898/BlueBuzzah-Gloves/blob/main/LICENSE/Hardware-License).
+- All hardware schematics, PCB layouts, 3D models, and glove assembly designs were developed by **BlueBuzzah Partners**.
+- Released under a custom, non-commercial license. See [BlueBuzzah Hardware License](https://github.com/PWPInnovator898/BlueBuzzah-Gloves/blob/main/LICENSE/Hardware-License).
