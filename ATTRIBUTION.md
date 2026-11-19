@@ -10,13 +10,11 @@ The project draws significant inspiration from the coordinated reset (CR) neurom
 
 ### Key References
 
-"Coordinated Reset Vibrotactile Stimulation Induces Sustained Cumulative Benefits in Parkinson’s Disease”, P.A. Tass, et al., 2021. [View research paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8055937/).
+- "Coordinated Reset Vibrotactile Stimulation Induces Sustained Cumulative Benefits in Parkinson’s Disease”, P.A. Tass, et al., 2021. [View research paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8055937/).
 
-This paper also has a supplementary materials link that has further information about the design along with patient videos.
+- “Clinical Efficacy and Dosing of Vibrotactile Coordinated Reset Stimulation in Motor and Non-motor Symptoms of Parkinson's Disease: A Study Protocol”, P.A. Tass, et al., 2021. [View research paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8636796/).
 
-“Clinical Efficacy and Dosing of Vibrotactile Coordinated Reset Stimulation in Motor and Non-motor Symptoms of Parkinson's Disease: A Study Protocol”, P.A. Tass, et al., 2021. [View research paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8636796/).
-
-“Vibrotactile Coordinated Reset Stimulation for the Treatment of Neurological Diseases: Concepts and Device, Specifications”, P.A. Tass, et al., 2017. [View research paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5624565/).
+- “Vibrotactile Coordinated Reset Stimulation for the Treatment of Neurological Diseases: Concepts and Device, Specifications”, P.A. Tass, et al., 2017. [View research paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5624565/).
 
 ## Software, Hardware Contributions and License Overview
 
